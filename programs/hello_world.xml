@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE program[
-    <!ENTITY world "World!">
-]>
 <program>
     <main>
-        <print>
-            <s>Hello</s>
-            <![CDATA[ ]]>&world;
-        </print>
+        <print>Hello World!</print>
     </main>
 </program>
